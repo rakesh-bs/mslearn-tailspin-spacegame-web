@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/rakeshbssit0586/WebDeliveryPlan/_apis/build/status/rakesh-bs.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/rakeshbssit0586/WebDeliveryPlan/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
